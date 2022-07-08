@@ -19,3 +19,7 @@ API PagSeguro
 
 Bootstrap
   https://getbootstrap.com/docs/4.6/components/alerts/
+
+
+https://dev.pagseguro.uol.com.br/v1.0/reference/api-boleto-providers-gerar-boleto
+https://github.com/pagseguro/pagseguro-sdk-php
